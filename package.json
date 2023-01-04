@@ -1,7 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --web",
     "start-api": "cd api && venv/bin/flask run --no-debugger",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -18,7 +18,7 @@
     "@web3modal/react": "^2.0.0-rc.1",
     "ethers": "^5.7.2",
     "expo": "^40.0.0",
-    "expo-cli ":"^4.4.3",
+    "expo-cli ":"^6.0.8",
     "expo-facebook": "~9.1.0",
     "expo-google-app-auth": "^8.1.4",
     "expo-modules-core": "^1.1.0",
