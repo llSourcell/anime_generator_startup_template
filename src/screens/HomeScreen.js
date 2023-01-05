@@ -47,6 +47,7 @@ export default function HomeScreen({ navigation }) {
       <TopBar title="Home" />
       <View style={styles.container}>
  Company ETH Address:  0xD25C15DD63A47eeBD31f833d39234bBa14f390a1
+ Pay with Stripe: https://buy.stripe.com/test_6oE17N0ZT22X61W9AA 
       <button onClick={sayHello}>Pay with MetaMask (optional)</button>
       </View>
 
