@@ -86,7 +86,6 @@ export default function RegisterScreen({ navigation }) {
       >
         Sign Up
       </Button>
-      <SocialLogins setError={setError} />
       <View style={styles.row}>
         <Text>Already have an account? </Text>
         <TouchableOpacity onPress={() => navigation.replace('LoginScreen')}>

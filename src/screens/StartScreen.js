@@ -14,7 +14,7 @@ export default function StartScreen({ navigation }) {
     <Background>
       <Logo />
       <Paragraph>
-        The easiest way to generate an Anime Music Video.
+        The best way to generate an Anime Video.
       </Paragraph>
       <Button
         mode="contained"
