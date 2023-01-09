@@ -2,8 +2,8 @@
 
 This is the code for [this](https://youtu.be/Ik2QlCWN54o) video on Youtube by Siraj Raval titled "Anime Video Generator". Use it as a starting template to build your own AI startup in entertainment, design, or music. 
 
+![alt%20text](https://i.ibb.co/b2Wrcr5/Screen-Shot-2023-01-08-at-9-07-24-PM.png)
 
-![https://i.ibb.co/b2Wrcr5/Screen-Shot-2023-01-08-at-9-07-24-PM.png](`https://i.ibb.co/b2Wrcr5/Screen-Shot-2023-01-08-at-9-07-24-PM.png`)
 
 
 ## Live demo
