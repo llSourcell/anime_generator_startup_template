@@ -1,3 +1,29 @@
+## Overview
+
+This is the code for [this](https://youtu.be/Ik2QlCWN54o) video on Youtube by Siraj Raval titled "Anime Video Generator". Use it as a starting template to build your own AI startup in entertainment, design, or music. It's built on the react Native Firebase App template by React Native Market.
+
+# Dependencies
+
+- [PyTorch](https://docs.flutter.dev/)
+- [Gradio](https://code.visualstudio.com/)
+- [HuggingFace](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [React](https://reactjs.org/)
+- [Node](https://nodejs.org/en/)
+- [Firebase](https://firebase.com/)
+- [Vercel](https://vercel.com/dashboard)
+
+## Installation Steps
+
+1. Follow the native firebase app template steps below.
+2. Find the AnimeGAN here https://huggingface.co/spaces/doevent/animegan-v2-for-videos
+3. Deploy to Vercel instead of HuggingFace 
+4. Add more data for better predictions *optional*
+
+## Credits
+
+See below - 
+
+
 # React Native Firebase App Template
 
 Thanks for your purchase.
