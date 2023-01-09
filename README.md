@@ -11,13 +11,16 @@ This is the code for [this](https://youtu.be/Ik2QlCWN54o) video on Youtube by Si
 - [Node](https://nodejs.org/en/)
 - [Firebase](https://firebase.com/)
 - [Vercel](https://vercel.com/dashboard)
+- [Stripe](https://stripe.com/docs/api/customers/search)
+- [EthersJS](https://github.com/ethers-io/ethers.js/)
 
 ## Installation Steps
 
 1. Follow the native firebase app template steps below.
 2. Find the AnimeGAN here https://huggingface.co/spaces/doevent/animegan-v2-for-videos
 3. Deploy to Vercel instead of HuggingFace 
-4. Add more data for better predictions *optional*
+4. Add your Stripe & EtherJS Keys for payments.
+5. Add more data for better predictions *optional*
 
 ## Credits
 
