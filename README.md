@@ -24,7 +24,7 @@ This is the code for [this](https://youtu.be/Ik2QlCWN54o) video on Youtube by Si
 
 ## Credits
 
-See below - 
+React Native Marketplace Templates. Install steps below
 
 
 # React Native Firebase App Template
