@@ -2,6 +2,10 @@
 
 This is the code for [this](https://youtu.be/Ik2QlCWN54o) video on Youtube by Siraj Raval titled "Anime Video Generator". Use it as a starting template to build your own AI startup in entertainment, design, or music. 
 
+## Live demo
+
+- https://animusica.vercel.app/ 
+
 # Dependencies
 
 - [PyTorch](https://docs.flutter.dev/)
